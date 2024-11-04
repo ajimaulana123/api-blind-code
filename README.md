@@ -1,6 +1,6 @@
 # api-blind-code
 
-api-blind-code adalah API open source yang dibangun menggunakan express js dan mysql untuk fitur simple login dan register, fitur ini dibuat untuk melengkapi fitur website code blind pada komunitas frontend developer
+api-blind-code adalah API open source untuk fitur simple login dan register, fitur ini dibuat untuk melengkapi fitur website code blind pada komunitas frontend developer
 
 ## Persyaratan
 
